@@ -1,2 +1,4 @@
 # hello-world
-sample initial repository
+Hello,
+
+following hello-world branch commits.
